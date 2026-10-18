@@ -10,5 +10,12 @@
       "local_ref": 1
     }
   ],
-  "users": []
+  "users": [
+    {
+      "github": "QCQ171-hub",
+      "folder": "QCQ171-hub_user",
+      "name": "测试玩家",
+      "updated_at": 1792320532953
+    }
+  ]
 }

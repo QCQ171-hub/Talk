@@ -3,6 +3,10 @@
 像 QQ 一样的 AI 角色扮演聊天软件。可创建智能体、在广场分享、继续聊天、搜索用户与智能体，
 所有发布数据以 GitHub 仓库 [`QCQ171-hub/Talk`](https://github.com/QCQ171-hub/Talk) 为中枢存储。
 
+## 特殊说明
+
+因为这个项目要存储数据，源代码会发上Releases
+
 ## 架构
 - **后端**：`server/server.js` — 零依赖（仅用 Node 24 内置 `http` / `fetch` / `node:sqlite`）。
   托管前端、代理智谱/OpenAI 兼容聊天（流式）与生图、读写 GitHub 数据仓库、SQLite 本地存储、调用 ffmpeg 做 1:1 头像裁剪、违禁词审核。

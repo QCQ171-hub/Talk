@@ -1,0 +1,17 @@
+{
+  "id": "000000000000005",
+  "name": "大头像角色",
+  "gender": "女",
+  "bio": "b",
+  "persona": "p",
+  "greeting": "g",
+  "system_prompt": "",
+  "model": "glm-4.5-flash",
+  "temperature": 0.9,
+  "max_tokens": 256,
+  "image": "image.png",
+  "owner_github": "QCQ171-hub",
+  "created_at": 1792291146156,
+  "updated_at": 1792291146709,
+  "comments": []
+}

@@ -1,14 +1,6 @@
 {
   "version": 1,
   "next_num": 5,
-  "agents": [
-    {
-      "id": "000000000000004",
-      "name": "头像验证角色",
-      "owner_github": "QCQ171-hub",
-      "updated_at": 1792291099001,
-      "local_ref": 1
-    }
-  ],
+  "agents": [],
   "users": []
 }

@@ -1,0 +1,17 @@
+{
+  "id": "000000000000002",
+  "name": "集成验证角色",
+  "gender": "女",
+  "bio": "端到端验证",
+  "persona": "你温柔而机敏",
+  "greeting": "（抬眸）你来啦",
+  "system_prompt": "",
+  "model": "glm-4.5-flash",
+  "temperature": 0.9,
+  "max_tokens": 512,
+  "image": "image.png",
+  "owner_github": "QCQ171-hub",
+  "created_at": 1792289087160,
+  "updated_at": 1792289087703,
+  "comments": []
+}

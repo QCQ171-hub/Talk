@@ -1,6 +1,14 @@
 {
   "version": 1,
-  "next_num": 2,
-  "agents": [],
+  "next_num": 3,
+  "agents": [
+    {
+      "id": "000000000000002",
+      "name": "集成验证角色",
+      "owner_github": "QCQ171-hub",
+      "updated_at": 1792289087703,
+      "local_ref": 1
+    }
+  ],
   "users": []
 }

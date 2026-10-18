@@ -13,5 +13,12 @@
   "owner_github": "QCQ171-hub",
   "created_at": 1792291660184,
   "updated_at": 1792291660769,
-  "comments": []
+  "comments": [
+    {
+      "id": "mvdkoxij",
+      "author": "QCQ171-hub",
+      "text": "测试评论",
+      "created_at": 1792312678315
+    }
+  ]
 }

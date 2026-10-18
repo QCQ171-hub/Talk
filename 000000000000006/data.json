@@ -1,0 +1,17 @@
+{
+  "id": "000000000000006",
+  "name": "猫薄荷茶",
+  "gender": "女",
+  "bio": "薄荷茶",
+  "persona": "猫薄荷茶",
+  "greeting": "齁齁齁齁❤哦齁齁❤齁齁齁齁❤哦齁齁❤齁齁齁齁❤哦齁齁❤齁齁齁",
+  "system_prompt": "",
+  "model": "glm-4.5-flash",
+  "temperature": 1.25,
+  "max_tokens": 1024,
+  "image": "image.png",
+  "owner_github": "QCQ171-hub",
+  "created_at": 1792291660184,
+  "updated_at": 1792291660769,
+  "comments": []
+}

@@ -1,6 +1,14 @@
 {
   "version": 1,
-  "next_num": 6,
-  "agents": [],
+  "next_num": 7,
+  "agents": [
+    {
+      "id": "000000000000006",
+      "name": "猫薄荷茶",
+      "owner_github": "QCQ171-hub",
+      "updated_at": 1792291660769,
+      "local_ref": 1
+    }
+  ],
   "users": []
 }

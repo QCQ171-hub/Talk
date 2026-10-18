@@ -1,13 +1,6 @@
 {
   "version": 1,
-  "next_num": 8,
+  "next_num": 1,
   "agents": [],
-  "users": [
-    {
-      "github": "QCQ171-hub",
-      "folder": "QCQ171-hub_user",
-      "name": "测试玩家",
-      "updated_at": 1792320532953
-    }
-  ]
+  "users": []
 }

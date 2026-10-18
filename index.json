@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "next_num": 7,
+  "next_num": 8,
   "agents": [
     {
-      "id": "000000000000006",
-      "name": "猫薄荷茶",
+      "id": "000000000000007",
+      "name": "内置Key验证",
       "owner_github": "QCQ171-hub",
-      "updated_at": 1792291660769,
+      "updated_at": 1792320523166,
       "local_ref": 1
     }
   ],

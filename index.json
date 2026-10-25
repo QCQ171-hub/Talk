@@ -1,6 +1,14 @@
 {
   "version": 1,
-  "next_num": 1,
-  "agents": [],
+  "next_num": 2,
+  "agents": [
+    {
+      "id": "000000000000001",
+      "name": "DeepseekV4.1Flash",
+      "owner_github": "QCQ171-hub",
+      "updated_at": 1792919547798,
+      "local_ref": 1
+    }
+  ],
   "users": []
 }

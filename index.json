@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "next_num": 3,
+  "next_num": 4,
   "agents": [
     {
       "id": "000000000000002",
@@ -8,6 +8,13 @@
       "owner_github": "QCQ171-hub",
       "updated_at": 1792919670604,
       "local_ref": 1
+    },
+    {
+      "id": "000000000000003",
+      "name": "星野 爱",
+      "owner_github": "QCQ171-hub",
+      "updated_at": 1792919776556,
+      "local_ref": 2
     }
   ],
   "users": []
